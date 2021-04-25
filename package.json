@@ -1,9 +1,12 @@
 {
-  "name": "summernote-words-length",
+  "name": "@beratkara/summernote-words-length",
   "version": "1.0.0",
   "description": "This plugin shows a limit on the number of words typed in the summernote plugin",
   "main": "summernote-ext-words-length.js",
   "author": "beratkara",
+  "repository": {
+    "url": "git://github.com/beratkara/summernote-words-length.git"
+  },
   "dependencies": {
     "summernote": "^0.8.2"
   }
