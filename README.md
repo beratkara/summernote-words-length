@@ -12,6 +12,12 @@ Include the following code after including Summernote.
 <script src="summernote-ext-words-length.js"></script>
 ````
 
+or 
+````html
+npm i @beratkara/summernote-words-length
+````
+
+
 ````html
 <textarea name="content" id="content" class="summernote" data-wordslength="450"></textarea>
 ````
